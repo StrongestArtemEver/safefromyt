@@ -1,0 +1,4 @@
+pytube
+tkinter
+ctypes
+cx_Freeze
